@@ -10,5 +10,5 @@
 
 ##### BIO
 
-- ⚙️ Uso diariamente: `NodeJS`, `Express`, `Typescript`, `GIT`, `Docker`
+- ⚙️ Uso diariamente: `NodeJS`, `Express`, `MongoDB`, `Typescript`, `GIT`, `Docker`
 - 🌱 Estoy aprendiendo `React`
