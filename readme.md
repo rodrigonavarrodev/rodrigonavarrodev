@@ -5,8 +5,8 @@
 
 ##### NOW
 
-- 🏢 Trabajo en [Accion Point](https://accionpoint.com/);
-- 💡 Estamos desarrollando una wallet con NodeJS y Express, tanto Mobile como Backoffice.
+- 🏢 Trabajo en [FPay](https://fpay.cl/);
+- 💡 Estoy en el equipo de Wallet colaborando en el desarrollo de la app Fpay para chile, peru y colombia.
 
 ##### BIO
 
